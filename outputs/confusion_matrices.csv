@@ -1,0 +1,4 @@
+Model,TN,FP,FN,TP
+majority,1035,0,374,0
+default,926,109,165,209
+balanced,747,288,81,293
